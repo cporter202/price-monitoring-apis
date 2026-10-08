@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Price Monitoring APIs — 262 actors to track prices, find deals, and flip smarter" width="100%" />
+<img src="./assets/hero.png" alt="Price Monitoring APIs — 262 actors to track prices, find deals, and flip smarter" width="100%" />
 
 <br />
 
