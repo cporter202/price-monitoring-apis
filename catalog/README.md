@@ -37,7 +37,7 @@
 </details>
 
 <details>
-<summary><strong>🛒 Marketplace scrapers (46)</strong> — click to expand</summary>
+<summary><strong>🛒 Marketplace scrapers (51)</strong> — click to expand</summary>
 
 | API Name | Description |
 |----------|-------------|
@@ -88,10 +88,15 @@
 | [Weekly Price Drop Finder - Best Deals Tracker](https://apify.com/biki-dev/weekly-price-drop-finder---best-deals-tracker?fpr=p2hrc6) | Automatically monitor product prices across Amazon, Best Buy, and other e-commerce sites. Discover the best weekly deals and never miss a price drop! Perfect for deal hunters, price comparison, and... |
 | [Facebook Marketplace [$1.5💰] Get newest items ASAP](https://apify.com/memo23/facebook-marketplace-scraper-ppe?fpr=p2hrc6) | 💰$1.50 per 1,000 Unlock valuable insights from Facebook Marketplace effortlessly – perfect for market research, price tracking, and competitor analysis, all while staying anonymous. |
 
+| [eBay Search API](https://apimesa.com) | Search live eBay listings by keyword — title, price, condition, image, and seller info for each result. Responses are cached for 6 hours. |
+| [eBay Item Details API](https://apimesa.com) | Get full details for any eBay listing — price, shipping options, seller feedback, images, and item specifics — from an item ID or URL. Responses are cached for 6 hours. |
+| [eBay Product Search](https://apimesa.com) | Search live eBay listings by keyword, category, or GTIN with marketplace, price, condition, buying-option, and shipping filters. |
+| [eBay Item Details](https://apimesa.com) | Retrieve normalized eBay product, seller, price, availability, shipping, condition, image, and listing details from URLs or item IDs. |
+| [eBay Store Listings](https://apimesa.com) | Export normalized active listings for a public eBay seller with optional keywords and commerce filters. |
 </details>
 
 <details>
-<summary><strong>📊 Competitor price intelligence (46)</strong> — click to expand</summary>
+<summary><strong>📊 Competitor price intelligence (48)</strong> — click to expand</summary>
 
 | API Name | Description |
 |----------|-------------|
@@ -142,6 +147,8 @@
 | [Hostelworld Hotels Search Scraper](https://apify.com/stealth_mode/hostelworld-hotels-search-scraper?fpr=p2hrc6) | Scrape hotel and hostel search results from Hostelworld.com including prices, ratings, facilities, locations, and more. Perfect for travel analysts, price comparison tools, and accommodation... |
 | [Safeway Scraper](https://apify.com/chimerical_quicklime/safeway-scraper?fpr=p2hrc6) | Scrape the Safeway weekly ad by ZIP: grocery item name, sale price, original price, deal text, validity dates, and image. Built for grocery price intelligence and deal monitoring. |
 
+| [Price Format API](https://apimesa.com) | Format numeric amounts as localized currency strings for checkout, receipts, and catalogs. |
+| [Product Page Intelligence](https://apimesa.com) | Extract normalized product identity, price, availability, seller, ratings, images, variants, offers, and source evidence from public product URLs. |
 </details>
 
 <details>
